@@ -1,0 +1,12 @@
+# Ignore raw datasets (too large for GitHub)
+data/raw/
+
+# Ignore DuckDB database file
+db/*.duckdb
+
+# Ignore exported dashboard CSV outputs
+excel dashboard/*.csv
+
+# Mac + editor junk
+.DS_Store
+.vscode/
