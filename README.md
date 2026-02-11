@@ -34,7 +34,7 @@ Unmatched payments create operational risk, fraud exposure, and audit issues.
 
 ## Project Pipeline
 
-raw → staging (clean) → mart (reconciliation) → exception queue → dashboard exports
+raw to staging (clean)to mart (reconciliation) to exception queue to dashboard exports
 
 ---
 
