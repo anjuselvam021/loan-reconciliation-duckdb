@@ -46,6 +46,13 @@ raw → staging (clean) → mart (reconciliation) → exception queue → dashbo
 - `mart.recon_monthly` — monthly expected vs received totals
 
 ---
+## Skils Demonstrated
+- SQL Data Cleaning
+- Financial REconciliation
+- Exception Management DUCKDB Analytics Engineering
+- Fraud and Risk Controls
+- Dashboard Reporting
+
 
 ## How to Run:
 
@@ -67,10 +74,4 @@ duckdb db/loan_recon.duckdb
 .read sql/06_exports.sql
 
 
-## Skils Demonstrated
-- SQL Data Cleaning
-- Financial REconciliation
-- Exception Management DUCKDB Analytics Engineering
-- Fraud and Risk Controls
-- Dashboard Reporting
 
